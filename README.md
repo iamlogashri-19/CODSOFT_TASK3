@@ -21,7 +21,7 @@ A personal expense tracker that allows users to manage income and expenses while
  https://iamlogashri-19.github.io/CODSOFT_TASK3/
 
 ## GitHub Repository
-https://github.com/yourusername/repository-name
+https://github.com/iamlogashri-19/CODSOFT_TASK3
 
 ## Author
 Loga Shri
