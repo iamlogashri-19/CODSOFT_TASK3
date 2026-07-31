@@ -18,7 +18,7 @@ A personal expense tracker that allows users to manage income and expenses while
 - Local Storage API
 
 ## Live Demo
-https://your-live-demo-link
+ https://iamlogashri-19.github.io/CODSOFT_TASK3/
 
 ## GitHub Repository
 https://github.com/yourusername/repository-name
